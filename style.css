@@ -1,0 +1,41 @@
+body {
+              font-family: Arial, sans-serif;
+              background-color: #f5f5dc;
+              color: #3d3d3d;
+          }
+          ​
+          header {
+              padding: 20px;
+          }
+          ​
+          h1 {
+              background-color: #f2f2f2;
+              color: #ffffff;
+          }
+          ​
+          h2 {
+              background-color: #f2f2f2;
+              color: #ffffff;
+          }
+          ​
+          h3 {
+              background-color: #8b4513;
+              color: #ffffff;
+          }
+          ​
+          .home {
+              background-color: #9acd32;
+          }
+          ​
+          .about {
+              background-color: #deb887;
+          }
+          ​
+          .portfolio {
+              background-color: #cd853f;
+          }
+       
+          img {
+              max-width: 45%;
+              margin-left: 20px;
+          }
